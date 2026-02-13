@@ -1,0 +1,8 @@
+{
+  "name": "OmniVoice AI Reader",
+  "description": "Ultra-advanced PDF, Image, and Text TTS reader with intelligent layout analysis, OCR fallback, and Gemini-powered audio synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
